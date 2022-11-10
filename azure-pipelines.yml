@@ -20,6 +20,6 @@ steps:
     location: 'Central US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/deborahQinzm/AzureRmPipeline-repo/master/azuredeploy.json'
-    overrideParameters: '-projectName Dqin0052'
+    overrideParameters: '-projectName LearningProject'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
