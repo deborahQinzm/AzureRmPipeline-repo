@@ -21,6 +21,6 @@ steps:
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/deborahQinzm/AzureRmPipeline-repo/master/azuredeploy.json?token=GHSAT0AAAAAAB3BQSALMMSBYLHOAABPKQR4Y3NORAA'
     csmParametersFileLink: 'Override template parameters'
-    overrideParameters: '-projectName TestCICDProject'
+    overrideParameters: '-projectName LearningProject'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
